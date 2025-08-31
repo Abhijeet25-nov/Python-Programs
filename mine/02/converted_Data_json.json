@@ -1,0 +1,74 @@
+[
+  {
+    "Date": "2025-08-30",
+    "City": "Moradabad",
+    "Temperature": "298.8",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Lucknow",
+    "Temperature": "300.58",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Varanasi",
+    "Temperature": "300.74",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Kanpur",
+    "Temperature": "301.01",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Tokyo",
+    "Temperature": "301.44",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "London",
+    "Temperature": "291.48",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Paris",
+    "Temperature": "291.37",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Brussels",
+    "Temperature": "291.22",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Madrid",
+    "Temperature": "297.92",
+    "Condition": "Clear"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Shikohabad",
+    "Temperature": "301.56",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Jaipur",
+    "Temperature": "300.95",
+    "Condition": "Clouds"
+  },
+  {
+    "Date": "2025-08-30",
+    "City": "Dehradun",
+    "Temperature": "296.28",
+    "Condition": "Clouds"
+  }
+]
