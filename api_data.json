@@ -1,0 +1,31 @@
+[
+    {
+        "id":101,
+        "name":"Riya",
+        "email":"riya@example.com",
+        "location":"Delhi",
+        "is_active":true
+    },
+    {
+        "id":102,
+        "name":"Abhinav",
+        "email":"abhinavyadav@gmail.com",
+        "location":"Moradabad",
+        "is_active":false
+    },
+    {
+        "id":103,
+        "name":"Shivansh",
+        "email":"nohanshivansh@gmail.com",
+        "location":"Lucknow",
+        "is_active":true
+    },
+    {
+        "id":104,
+        "name":"Ajinkya Mishra",
+        "email":"mishraajinkya7777@gmail.com",
+        "location":"knapur",
+        "is_active":false
+    }
+
+]
